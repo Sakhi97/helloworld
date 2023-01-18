@@ -13,4 +13,4 @@ Piece of my JavaScript code
           return <div>Hello {text}</div>;
         }
 
-![Nature](https://github.com/Sakhi97/helloworld/blob/main/pitong.jpg=250x250)
+![](https://github.com/Sakhi97/helloworld/blob/main/pitong.jpg=250x250)
